@@ -1,0 +1,23 @@
+/**/
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 351;
+  height: 113;
+}
+.table1 {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #eeeeee;
+}
+td {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  size: -1;
+}
